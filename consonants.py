@@ -1,0 +1,20 @@
+class Constants:
+    WIDTH = 800
+    HEIGHT = 800
+    GREY = (100, 100, 100)
+    DARK_GREY = (20, 20, 20)
+    WHITE = (255, 255, 255)
+    RED = (255, 108, 108)
+    COLOR_INCORRECT = (50, 50, 50)
+    COLOR_MISPLACED = (255, 193, 53)
+    COLOR_CORRECT = (0, 185, 6)
+    TEXT_TIMER = 2
+    NUM_ROWS = 6
+    NUM_COLS = 5
+    LETTER_LENGTH = NUM_COLS
+    RECT_WIDTH = 50
+    RECT_HEIGHT = 50
+    DX = 10
+    DY = 10
+    X_PADDING = 5
+    Y_PADDING = 5
